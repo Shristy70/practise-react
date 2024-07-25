@@ -1,0 +1,46 @@
+{
+    "cybrom":[
+        {
+            "id":"1",
+            "name":"hristy gour",
+            "roll_no":11,
+            "city" : "bhopal",
+            "fees" :45000
+        },
+        {
+            "id":"2",
+            "name":"hristy gour",
+            "roll_no":11,
+            "city" : "bhopal",
+            "fees" :45000
+        },
+        {
+            "id":"3",
+            "name":"hristy gour",
+            "roll_no":11,
+            "city" : "bhopal",
+            "fees" :45000
+        },
+        {
+            "id":"4",
+            "name":"hristy gour",
+            "roll_no":11,
+            "city" : "bhopal",
+            "fees" :45000
+        },
+        {
+            "id":"5",
+            "name":"hristy gour",
+            "roll_no":11,
+            "city" : "bhopal",
+            "fees" :45000
+        },
+        {
+            "id":"6",
+            "name":"khushi gour",
+            "roll_no":11,
+            "city" : "bhopal",
+            "fees" :45000
+        }
+    ]
+}
